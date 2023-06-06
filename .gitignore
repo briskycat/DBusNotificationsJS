@@ -130,3 +130,4 @@ dist
 .pnp.*
 dbus-next/package-lock.json
 dbus-next/build
+dbus-native/package-lock.json

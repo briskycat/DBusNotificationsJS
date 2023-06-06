@@ -1,0 +1,11 @@
+{
+  "name": "org.freedesktop.notifications",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "author": "Andrew Novikov",
+  "license": "None",
+  "dependencies": {
+    "@httptoolkit/dbus-native": "^0.1.1"
+  }
+}
